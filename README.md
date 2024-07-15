@@ -22,7 +22,7 @@ This project uses OpenAI's CLIP model and OpenCV to perform real-time object det
 
 1. **Run the script:**
     
-    python script_name.py
+    python CV_Project.py
   
 
 2. **Interact with the webcam:**
